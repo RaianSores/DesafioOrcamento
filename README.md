@@ -9,5 +9,6 @@ Utilizar apenas dados em memória
 * Os produtos já deve ser cadastrados em Runtime, ou seja, quando subir à aplicação.
 * Deve ser possível selecionar um produto para ser inserido no orçamento
 * Deve ser possível remover um produto do orçamento
+* Não deve ser possível ter produtos duplicados no orçamento
 * Deve ser possível ver o total do orçamento
 * Deve ser possível ver a quantidade de itens no orçamento
