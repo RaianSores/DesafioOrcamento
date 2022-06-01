@@ -12,3 +12,5 @@ Utilizar apenas dados em memória
 * Não deve ser possível ter produtos duplicados no orçamento
 * Deve ser possível ver o total do orçamento
 * Deve ser possível ver a quantidade de itens no orçamento
+
+## Deve ser criado um fork do repositório para entrega do desafio
