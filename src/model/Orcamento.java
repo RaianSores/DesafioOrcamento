@@ -19,11 +19,6 @@ public class Orcamento {
         }
     }
 
-    private boolean isaBoolean(ItemOrcamento itemOrcamento) {
-        return itemOrcamento == null;
-    }
-
-
     public BigDecimal total() {
         BigDecimal total = BigDecimal.ZERO;
         for (ItemOrcamento item : itens
